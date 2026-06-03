@@ -1,0 +1,9 @@
+[package]
+name = "dns-build-it-yourself"
+version = "0.1.0"
+authors = ["Vladislav Savonov <savonovv73@gmail.com>"]
+edition = "2026"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
